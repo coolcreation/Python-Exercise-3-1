@@ -2,6 +2,7 @@
 class exercise week 2 day 1
 
 
+```python
 print("\nThe Miles Per Gallon Program")
 
 while True:
@@ -23,3 +24,4 @@ while True:
     else:
         print("Values must be more than ZERO, try again!")
         continue
+```
