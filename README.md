@@ -3,6 +3,10 @@ class exercise week 2 day 1
 
 
 ```python
+# Jeff Bohn
+# 8/27/2024
+# SWDV-210
+
 print("\nThe Miles Per Gallon Program")
 
 while True:
